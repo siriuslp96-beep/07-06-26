@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| SPORTS HEVC",##### SPORTS HEVC  ####
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458683&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPLUS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS + FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458676&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS ACTION HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458664&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSACTION.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS ACTION HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458677&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS CRICKET HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458675&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSCRICKET.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS CRICKET HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458662&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS FOOTBALL HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458674&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSFOOTBALL.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS FOOTBALL HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458660&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS GOLF HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458673&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSGOLF.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS GOLF HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458659&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MAIN EVENTS HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458672&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMAINEVENTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MAIN EVENTS HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458658&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MIX HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458671&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSMIX.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS MIX HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458657&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS NEWS HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458681&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSNEWS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS NEWS HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458670&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS PREMIER LEAGUE HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458669&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSTOREPREMIERE.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS PREMIER LEAGUE HEVC
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458656&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS RACING HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458668&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSRACING.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS RACING HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458655&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS TENNIS HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458814&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPOIRTSTENNIS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS TENNIS HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458813&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSARENA.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS ARENA HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458663&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSDARTS.png" group-title="UK| SPORTS HEVC",UK| SKY SPORTS DARTS HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458661&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 1 HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458678&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 1 HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458654&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 1 HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458667&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 2 HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458666&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS2.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 2 HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458653&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 3 HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458665&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS3.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 3 HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458652&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 4 HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458815&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS4.png" group-title="UK| SPORTS HEVC",UK| TNT SPORTS 4 HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458651&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" group-title="UK| SPORTS HEVC",UK| RACING UK HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458679&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/RACING.png" group-title="UK| SPORTS HEVC",UK| RACING UK HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458680&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS1.png" group-title="UK| SPORTS HEVC",UK| EUROSPORT 1  HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458649&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS1.png" group-title="UK| SPORTS HEVC",UK| EUROSPORT 1 HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458644&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS2.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 2 HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458648&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/EUROSPORTS2.png" group-title="UK| SPORTS HEVC",UK| EUROSPORTS 2 HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458643&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="UK| SPORTS HEVC",UK| PREMIER SPORTS 1 IRELAND HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458647&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS1.png" group-title="UK| SPORTS HEVC",UK| PREMIER SPORTS 1 IRELAND HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458642&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS2.png" group-title="UK| SPORTS HEVC",UK| PREMIER SPORTS 2 IRELAND HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458641&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS2.png" group-title="UK| SPORTS HEVC",UK| PREMIER SPORTS 2 IRELAND HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458812&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png" group-title="UK| SPORTS HEVC",UK| DAZN PPV HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458638&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/DAZN1.png" group-title="UK| SPORTS HEVC",UK| DAZN PPV HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458637&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 1 HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458646&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 2 HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458645&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 1 HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458640&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/VIAPLAYXTRA.png" group-title="UK| SPORTS HEVC",UK| VIAPLAY 2 HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458639&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="UK| SPORTS HEVC",UK| LFC HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458774&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/LFC.png" group-title="UK| SPORTS HEVC",UK| LFC HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458786&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="UK| SPORTS HEVC",UK| MUTV HEVC FHD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458773&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MUTV.png" group-title="UK| SPORTS HEVC",UK| MUTV HEVC HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1458772&extension=ts
+
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174693.png" group-title="USA",U.S| FUBO SPORTS NETWORK HD
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=174693&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="UK| MONOMAX PPV",MonoMax | Event 1
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1902358&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="UK| MONOMAX PPV",MonoMax | Event 2
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1902357&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="UK| MONOMAX PPV",MonoMax | Event 3
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1902356&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="UK| MONOMAX PPV",MonoMax | Event 4
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1902355&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="UK| MONOMAX PPV",MonoMax | Event 5
+http://185.80.197.42:80/play/live.php?mac=00:1B:79:18:AE:8E&stream=1902354&extension=ts
