@@ -223,7 +223,300 @@ http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=587989&exten
 http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=587988&extension=ts
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?38281" group-title="UK| SPORT ᴿᴬᵂ",UK: LFC TV ᴿᴬᵂ
 http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588057&extension=ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8117.png?91903" group-title="UK| SPORT ᴿᴬᵂ",UK: EDGE SPORT ᴿᴬᵂ
-http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=587964&extension=ts
-#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6139.png?96489" group-title="UK| SPORT ᴿᴬᵂ",UK: MUTV ᴿᴬᵂ
-http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588055&extension=ts
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### BEIN SPORTS #####
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238271&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 1 EN FHD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=483921&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 1 EN HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=49226&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 2 EN FHD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=483920&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORT 2 EN HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=49225&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 EN SD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=735946&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238265&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 1 PREMIUM HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238261&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 EN SD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=735945&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238264&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 2 PREMIUM HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238262&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 EN SD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=735944&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238266&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 3 PREMIUM HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238263&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS4.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 4 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238267&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS5.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 5 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238268&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS6.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 6 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238269&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS7.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS 7 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=238270&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 1
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1348093&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 2
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1348102&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS AU 3
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1348103&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### BEIN SPORTS ASIA #####
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=923433&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS1.png" group-title="UK| WORLD SPORTS",UK| BEIN SPORTS ASIA 1
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=923432&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS2.png" group-title="UK| WORLD SPORTS",UK| UK| BEIN SPORTS ASIA 2
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=923431&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/BEINSPORTS3.png" group-title="UK| WORLD SPORTS",UK| UK| BEIN SPORTS ASIA 3
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=923430&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### SUPER SPORTS #####
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239075&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS ACTION HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=425668&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS BLITZ HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=425310&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS CRICKET HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239087&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS EVENTS HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=425312&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS FOOTBALL HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239083&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS GOLF HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=425667&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS GRANDSTAND HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239079&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS LIGA HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239076&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS MAXIMO HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=425666&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS MOTORSPORT HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239082&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPER SPORTS PLAY 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=425313&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PLAY 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=425311&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PL HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239078&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS PSL HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239077&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS RUGBY HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239086&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS TENNIS HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=425314&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239081&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239080&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 3 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239085&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SUPERSPORT.png" group-title="UK| WORLD SPORTS",UK| SUPERSPORTS VARIETY 4 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=239084&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK ASTRO SPORTS #####
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=918987&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Football
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=918983&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Football
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1016545&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Grandstand
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=918984&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Premier League
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1016544&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Premier League 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=918985&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/ASTROSPORTS.png" group-title="UK| WORLD SPORTS",UK| ASTRO Premier League HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=918986&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/UK.png" group-title="UK| WORLD SPORTS",##### UK NOW SPORTS #####
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032490&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 1
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032479&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 2
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032478&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 3
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032477&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032476&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 616
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032489&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 4K 617
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032488&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 5
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032475&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 6
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032474&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/NOWSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK NOW SPORTS 7
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032473&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 1
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032487&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 2
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032486&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 3
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032485&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 4
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032484&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 5
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032483&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 6
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032482&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 7
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032481&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UKNEW/PREMIERSPORTS.png" group-title="UK| WORLD SPORTS",UK| NOW HK PREMIER SPORTS 8
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=1032480&extension=ts
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/9915.png" group-title="WORLD CUP 2026",AFG| ATN
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077072&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/116108.png" group-title="WORLD CUP 2026",ALB| TV KLAN HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077071&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25307.png" group-title="WORLD CUP 2026",ARG| TELEFE HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077069&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1354639.png" group-title="WORLD CUP 2026",ARG| TV PUBLICA
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077068&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TYC.png" group-title="WORLD CUP 2026",ARG| TYC SPORTS
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077067&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ENTVALGERIA.png" group-title="WORLD CUP 2026",AR| EN TV ALGERIA
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077070&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/127402.png" group-title="WORLD CUP 2026",AUS| ORF 1 FHD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077065&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1004574.png" group-title="WORLD CUP 2026",AUS| SERVUS TV HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077064&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBS-VICELAND-PERTH.jpeg" group-title="WORLD CUP 2026",AU| SBS VICELAND MELBOURNE
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077066&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077057&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport2.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077056&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport3.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077055&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport4.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077054&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport5.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077053&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport6.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077052&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENA-SPORT-PREMIUM-1.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 1 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077060&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENASPORTPREMIUM2.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 2 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077059&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENASPORTPREMIUM3.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 3 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077058&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1796659.png" group-title="WORLD CUP 2026",BE| VRT 1 FHD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077062&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png" group-title="WORLD CUP 2026",BG| BNT 1 FHD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077051&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png" group-title="WORLD CUP 2026",BG| BNT 3 FHD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077050&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1588629.png" group-title="WORLD CUP 2026",BY| BELARUS 1
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077063&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177302.png" group-title="WORLD CUP 2026",CA| RDS HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077044&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="WORLD CUP 2026",CA| TSN 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077049&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="WORLD CUP 2026",CA| TSN 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077048&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="WORLD CUP 2026",CA| TSN 3 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077047&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="WORLD CUP 2026",CA| TSN 4 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077046&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="WORLD CUP 2026",CA| TSN 5 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077045&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25334.png" group-title="WORLD CUP 2026",CHL| CHILEVISION
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077043&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/caracol.png" group-title="WORLD CUP 2026",CO| CARACOL HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077042&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25344.png" group-title="WORLD CUP 2026",CO| RCN
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077041&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/WINSPOETS.png" group-title="WORLD CUP 2026",CO| WINSPOETS 2
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077037&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/WINSPOETS.png" group-title="WORLD CUP 2026",CO| WINSPOETS 3
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077036&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25338.png" group-title="WORLD CUP 2026",CO| WIN SPORTS
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077040&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/947649.png" group-title="WORLD CUP 2026",CO| WINSPORTS 1
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077038&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/145416.png" group-title="WORLD CUP 2026",CO| WIN SPORTS PLUS HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077039&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1351823.png" group-title="WORLD CUP 2026",CR| TELETICA 7
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077035&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432130.png" group-title="WORLD CUP 2026",CY| SiGMA CYPRUS
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077032&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/98275.png" group-title="WORLD CUP 2026",CZ| CT 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077031&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ARD.png" group-title="WORLD CUP 2026",DE| ARD HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077028&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png" group-title="WORLD CUP 2026",DE| ZDF HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077027&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/444268.png" group-title="WORLD CUP 2026",FIN| YLE TV1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077030&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/M6.png" group-title="WORLD CUP 2026",FR| M6 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077029&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/hrt1.png" group-title="WORLD CUP 2026",HR| HRT 1 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077034&extension=ts
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/hrt2.png" group-title="WORLD CUP 2026",HR| HRT 2 ⱽᴵᴾ ᴿᴬᵂ
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077033&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/30521.png" group-title="WORLD CUP 2026",IR| RTE TWO HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077026&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692602.png" group-title="WORLD CUP 2026",IT| RAI 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077025&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TIGO-SPORTS.png" group-title="WORLD CUP 2026",LAT| TIGO SPORTS 1 BO  HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077061&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/816650.png" group-title="WORLD CUP 2026",LUX| RTL HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077024&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/15691.png" group-title="WORLD CUP 2026",MNG| RTCG
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077022&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1546792.png" group-title="WORLD CUP 2026",MXC| AZTECA DEPORTES
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077023&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/247417.png" group-title="WORLD CUP 2026",NOR| NRK1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077020&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/247418.png" group-title="WORLD CUP 2026",NOR| NRK2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077019&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1182157.png" group-title="WORLD CUP 2026",NZ| TVNZ 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077021&extension=ts
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/880380.png" group-title="WORLD CUP 2026",PL| TVP 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077017&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/POLAND/1917583.png" group-title="WORLD CUP 2026",PL|  TVP SPORT
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077018&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/RTP1.png" group-title="WORLD CUP 2026",PT| RTP 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077016&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV1.png" group-title="WORLD CUP 2026",PT| SPORT TV 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077015&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV2.png" group-title="WORLD CUP 2026",PT| SPORT TV 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077014&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/92459.png" group-title="WORLD CUP 2026",RO| TVR HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077013&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/110778.png" group-title="WORLD CUP 2026",RS| RTS 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077012&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/228704.png" group-title="WORLD CUP 2026",RS| RTS 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077011&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/395728.png" group-title="WORLD CUP 2026",SE| SVT 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077010&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/395727.png" group-title="WORLD CUP 2026",SE| SVT 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077009&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/TURKIYE/TRT1.png" group-title="WORLD CUP 2026",TR| TRT 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077008&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/913401.png" group-title="WORLD CUP 2026",TR| TRT SPOR HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077007&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30581.png" group-title="WORLD CUP 2026",UK| BBC 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077006&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30580.png" group-title="WORLD CUP 2026",UK| BBC 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077005&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/111559.png" group-title="WORLD CUP 2026",UK| BBC TWO HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077004&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30533.png" group-title="WORLD CUP 2026",UK| ITV 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077003&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/UK/30530.png" group-title="WORLD CUP 2026",UK| ITV 4 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077002&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45571.png" group-title="WORLD CUP 2026",US| FOX SPORTS 1 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077001&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/USA/45570.png" group-title="WORLD CUP 2026",US| FOX SPORTS 2 HD
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2077000&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/TELEMUNDO.png" group-title="WORLD CUP 2026",US| TELEMUNDO (EAST)
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2076999&extension=ts
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/151997.png" group-title="WORLD CUP 2026",UY| CANAL 10
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2076998&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="WORLD CUP 2026",VZ| TELEVEN
+http://line.mode-lion.online:80/play/live.php?mac=A0:BB:3E:BE:1C:FA&stream=2076997&extension=ts
