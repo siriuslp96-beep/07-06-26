@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Animated-Flag-USA.gif" group-title="US|⚽PEACOCK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",##### PEACOCK ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1520141&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US|⚽PEACOCK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: PREMIER LEAGUE TV ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1520110&extension=ts
+
+#EXTINF:0,live.php?mac=00:1B:79:F0:43:A2&stream=1556138&extension=ts&play_token=CfeBti1rje
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:F0:43:A2&stream=1556138&extension=ts&play_token=CfeBti1rje
+
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="⚽MONOMAX PPV",MonoMax | Event 1
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902358&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="⚽MONOMAX PPV",MonoMax | Event 2
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902357&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="⚽MONOMAX PPV",MonoMax | Event 3
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902356&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="⚽MONOMAX PPV",MonoMax | Event 4
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902355&extension=ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="⚽MONOMAX PPV",MonoMax | Event 5
+http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902354&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="⚽HUB PREMIER PPV",### HUB PREMIER PPV ###
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=620788&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="⚽HUB PREMIER PPV",HUB PREMIER 2 0 1
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=620787&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="⚽HUB PREMIER PPV",HUB PREMIER 1 0 1
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=620786&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="⚽HUB PREMIER PPV",HUB PREMIER 2 0 2
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=620785&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="⚽HUB PREMIER PPV",HUB PREMIER 3 0 3
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=620784&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="⚽HUB PREMIER PPV",HUB PREMIER 4 0 4
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=620783&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1886.jpg?ver=28983" group-title="⚽HUB PREMIER PPV",HUB PREMIER 5 0 5
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=620782&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",####### TNT SPORT ᴿᴬᵂ ⁵⁰ FPS #######
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290339&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?81674" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS ULTIMATE ⁴ᵏ & ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290338&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 1 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290337&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 2 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290336&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 3 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290335&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?95958" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORTS 4 ᴿᴬᵂ ⁵⁰ FPS
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290334&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9672.png?51391" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 1 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290322&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?67159" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 2 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290321&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?96158" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 3 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290320&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?34432" group-title="UK| TNT SPORT ᴿᴬᵂ ⱽᴵᴾ ᴰᴼᴸᴮʸ ᴬᵁᴰᴵᴼ",VIP: TNT SPORT 4 ᴿᴬᵂ ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1290319&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Animated-Flag-Netherlands.gif" group-title="ZIGGO SPORTS ᴿᴬᵂ",#### ZIGGO SPORTS ᴿᴬᵂ ####
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980756&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ESPN ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980754&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ESPN 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980753&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ESPN 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980752&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ESPN 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980751&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ZIGGO SPORT ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980750&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ZIGGO SPORT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980749&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ZIGGO SPORT 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980748&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ZIGGO SPORT 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980747&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ZIGGO SPORT 5 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980746&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/15088.PNG?ver=53330" group-title="ZIGGO SPORTS ᴿᴬᵂ",ZG: ZIGGO SPORT 6 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1980745&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Animated-Flag-Turkey.gif" group-title="TR| SPOR KANALI VIP",#### SPOR KANALI VIP ####
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401309&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?ver=16866" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401288&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?ver=16866" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 1 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401285&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?78788" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401286&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?33244" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 2 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401289&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/532.png?20300" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 2 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401294&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/533.png?36077" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 3 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401287&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/533.png?10337" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 3 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401290&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1368.png?15245" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 3 HD
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401295&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/540.png?79100" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 4 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401291&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/540.png?76050" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 4 HD
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401296&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/542.png?91785" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 5 4K
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=425474&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/542.png?91785" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS 5 4K+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=425475&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11550.jpg?40616" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS MAX 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401292&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11550.jpg?79087" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS MAX 1 HD
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401297&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11551.jpg?35041" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS MAX 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401293&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11551.jpg?8118" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS MAX 2 HD
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401298&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/565.png?53881" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS MAÇ SAATI (FEED)
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401300&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/565.png?53881" group-title="TR| SPOR KANALI VIP",TR VIP: BEIN SPORTS MAÇ SAATI (FEED) 4K
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?ver=53185" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 1 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401306&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?ver=53185" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 2 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401307&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?ver=53185" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 3 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401308&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?ver=53185" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 4 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401305&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?ver=53185" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 5 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401304&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?ver=53185" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 6 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401303&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.png?ver=53185" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 7 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401302&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3197.jpg?3107" group-title="TR| SPOR KANALI VIP",TR VIP: EXXEN SPORT 8 HD+
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=401301&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Animated-Flag-United-Kingdom.gif" group-title="UK| SPORT ᴿᴬᵂ",##### SPORTS ᴿᴬᵂ #####
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588049&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1366.png?39011" group-title="UK| SPORT ᴿᴬᵂ",UK: BEIN SP⚽RTS 1 ENGLISH ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588048&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1365.png?31745" group-title="UK| SPORT ᴿᴬᵂ",UK: BEIN SP⚽RTS 2 ENGLISH ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588047&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?ver=13861" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS MAIN EVENTS ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=950402&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12415.jpg?89982" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS DARTS  ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=950401&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6450.jpg?58756" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS 1 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=950400&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11976.png?ver=27794" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS 2 ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=950399&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?ver=99413" group-title="UK| SPORT ᴿᴬᵂ",UK: TNT SPORT ULTIMATE ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1069751&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?26350" group-title="UK| SPORT ᴿᴬᵂ",UK: TNT SPORTS 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588012&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6400.png?54855" group-title="UK| SPORT ᴿᴬᵂ",UK: TNT SPORTS 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588011&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6123.png?60852" group-title="UK| SPORT ᴿᴬᵂ",UK: TNT SPORTS 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588010&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6398.png?48832" group-title="UK| SPORT ᴿᴬᵂ",UK: TNT SPORTS 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588009&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12268.jpg?36647" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS NEWS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588037&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12261.png?ver=59721" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS PREMIER LEAGUE ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588026&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12232.jpg?31368" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS MAIN EVENT ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588046&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?32706" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS FOOTBALL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588044&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7872.jpg?50086" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS + ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588042&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12244.jpg?ver=25444" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS ACTION ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588043&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11981.jpg?8452" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS CRICKET ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588041&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12265.jpg?47107" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS RACING ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588036&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12243.jpg?38870" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS GOLF ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588039&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6441.png?32706" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS PL ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588045&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12415.jpg?89982" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS DARTS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588040&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12250.jpg?25070" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS MIX ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588038&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12307.jpg?76030" group-title="UK| SPORT ᴿᴬᵂ",UK: SKY SPORTS TENNIS ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=707005&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11104.png?96689" group-title="UK| SPORT ᴿᴬᵂ",UK: BFBS SPORT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1232964&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11104.png?96689" group-title="UK| SPORT ᴿᴬᵂ",UK: BFBS SPORT 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1232963&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11104.png?96689" group-title="UK| SPORT ᴿᴬᵂ",UK: BFBS SPORT 3 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1232962&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11104.png?96689" group-title="UK| SPORT ᴿᴬᵂ",UK: BFBS SPORT 4 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1232961&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11104.png?96689" group-title="UK| SPORT ᴿᴬᵂ",UK: BFBS SPORT 5 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1232960&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11104.png?96689" group-title="UK| SPORT ᴿᴬᵂ",UK: BFBS SPORT 6 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1232959&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10148.png?53920" group-title="UK| SPORT ᴿᴬᵂ",UK: VIAPLAY SPORT 1 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=587990&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10148.png?53920" group-title="UK| SPORT ᴿᴬᵂ",UK: VIAPLAY SPORTS 2 ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=587989&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11975.png?54684" group-title="UK| SPORT ᴿᴬᵂ",UK: RACING ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=587988&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12271.jpg?38281" group-title="UK| SPORT ᴿᴬᵂ",UK: LFC TV ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588057&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8117.png?91903" group-title="UK| SPORT ᴿᴬᵂ",UK: EDGE SPORT ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=587964&extension=ts
+#EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6139.png?96489" group-title="UK| SPORT ᴿᴬᵂ",UK: MUTV ᴿᴬᵂ
+http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=588055&extension=ts
