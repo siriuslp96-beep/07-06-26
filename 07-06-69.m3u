@@ -3,7 +3,8 @@
 http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1520141&extension=ts
 #EXTINF:-1 tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2338.jpg?1644" group-title="US|⚽PEACOCK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",US: PREMIER LEAGUE TV ᴿᴬᵂ
 http://204.52.191.254:80/play/live.php?mac=00:1B:79:47:47:C1&stream=1520110&extension=ts
-
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/174693.png" group-title="US|⚽PEACOCK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",FUBO SPORTS NETWORK HD
+http://185.80.197.39:80/play/live.php?mac=00:1B:79:48:7C:7A&stream=174693&extension=ts
 
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/EVENT.png" group-title="⚽MONOMAX PPV",MonoMax | Event 1
 http://line.hostytv.store:80/play/live.php?mac=00:1B:79:F9:3F:E5&stream=1902358&extension=ts
